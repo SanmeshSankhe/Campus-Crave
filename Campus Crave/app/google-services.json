@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032500411292",
+    "project_id": "foodapp-43df4",
+    "storage_bucket": "foodapp-43df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032500411292:android:66152978344ddcc37ba659",
+        "android_client_info": {
+          "package_name": "com.example.campuscrave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39BrHClsd6YbMmNbvOIREhArG13IidDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
